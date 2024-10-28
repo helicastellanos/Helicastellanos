@@ -1,29 +1,5 @@
 ## Hi there 👋
-
-
-
-
-![baner](https://github.com/user-attachments/assets/b22c90be-b8ac-4949-b8b3-92ad1a14cd2d)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+![ya el baner](https://github.com/user-attachments/assets/abd8584d-65d7-4b5b-b580-3aa38e6c129b)
 <!--
 **helicastellanos/Helicastellanos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
