@@ -3,7 +3,10 @@
  
  
 - 💬 Preguntame sobre los temas en HTML O Visual Studio Code 
-- 📫  Cómo contactarme: en mis redes sociales como @Heli_Castellanos en todos lados 
-- creadora de contenido en You Tube: Heli Castellanos 
--    
+- creadora de contenido en You Tube: Heli Castellanos
+- instagram: Heli_Castellanos
+- facebook: Heli_Castellanos
+- X: Heli_Castellanos
+- whatsApp: 8992532314
+  
  
