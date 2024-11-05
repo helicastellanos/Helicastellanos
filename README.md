@@ -6,7 +6,7 @@
 [![Instagram Follow](https://img.shields.io/badge/Instagram-Follow-purple?style=social&logo=instagram)](https://www.instagram.com/ah_sosaa)
 
  
- 🔭 Actualmente estoy trabajando en programacion 
+- 🔭 Actualmente estoy trabajando en programacion 
 - 🌱 Actualmente estoy aprendiendo a crear paginas web
 - 👯 Estoy buscando colaborar en html
 - 💬 Pregúntame sobre temas de HTML,Github, VS Code y mucho mas
