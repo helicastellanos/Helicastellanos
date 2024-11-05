@@ -13,4 +13,7 @@
 - 📫 Cómo contactarme: 8991632313
 - ⚡ Dato curioso: tengo 17 años 
   
- https://www.youtube.com/watch?v=8bpGQSR_49c 
+[Uploading hqdefault.webp…]()
+
+
+ 
