@@ -1,4 +1,4 @@
- 
+z 
  ![Captura de pantalla 2024-11-05 080752](https://github.com/user-attachments/assets/60b3f59e-1f9d-4d77-995a-fdf0b9d1055f)
 [![Twitter Follow](https://img.shields.io/twitter/follow/HeliCastel5756?style=social)](https://twitter.com/HeliCastel5756)
 [![YouTube Subscribers](https://img.shields.io/youtube/channel/subscribers/UC85TQPh3WfHK2YT_fTaDTJg?style=social)](https://www.youtube.com/channel/HeliCastellanos-r1k)
@@ -24,8 +24,7 @@
  ">
 </a>
 <a href="https://www.youtube.com/watch?v=u6p5JrmUcjY&t=66s"_blank">
-<img src="![portadagit](https://github.com/user-attachments/assets/5a3ab74f-792c-4b92-8bbe-fd38ea3b909a)
- ">
+<img src="![portadagit](https://github.com/user-attachments/assets/5a3ab74f-792c-4b92-8bbe-fd38ea3b909a)">
 </a>
 </p>
 <p>Aprende a instalar GitHub en menos de 5 minutos<strong>Como instalar GITHUB</strong> - En este video aprenderás de forma facil y práctica a como instalar GitHub.</p>
