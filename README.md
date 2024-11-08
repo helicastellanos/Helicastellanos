@@ -30,7 +30,6 @@
 </div>
 
 </td>
-
 <td width="50%">
 <h3 align="center">COMO DESCARGAR UNA EXTENSIÓN EN VS CODE </h3>
 <div align="center">
