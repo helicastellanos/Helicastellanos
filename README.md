@@ -20,8 +20,7 @@ z
 <a href="https://github.com/helicastellanos" target="_blank"><img src="portadagit.png"width="400" alt="COMO INSTALAR GITHUB"></a>
 <p>
 <a href="https://github.com/helicastellanos" target="_blank">
-<img src="![portadagit](https://github.com/user-attachments/assets/fc2c3be5-ec2b-43b4-b72e-e09b3ff687e9)
- ">
+<img src="https://img.shields.io/badge/CÓDIGO-ffffff?style=for-the-badge&logo=github&logoColor=black">
 </a>
 <a href="https://www.youtube.com/watch?v=u6p5JrmUcjY&t=66s"_blank">
 <img src="https://img.shields.io/badge/-Youtube-green?style=for-the-badge&color=d8392c">
