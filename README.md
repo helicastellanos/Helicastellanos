@@ -35,7 +35,7 @@ z
                <br>
 <h3 align="center">COMO DESCARGAR UNA EXTENSIÓN EN VS CODE </h3>
 <div align="center">
-<a href="https://github.com/13k13k13/13k13k13" target="_blank"><img src="portada 2.jpeg" width="400" alt="DESCARGA UNA EXTENSION EN VS CODE"></a>
+<a href="https://github.com/13k13k13/13k13k13" target="_blank"><img src="portadaVS.png" width="400" alt="DESCARGA UNA EXTENSION EN VS CODE"></a>
 <p>
 <a href="https://github.com/13k13k13/13k13k13"_blank">
 <img src="https://img.shields.io/badge/CÓDIGO-ffffff?style=for-the-badge&logo=github&logoColor=black">
