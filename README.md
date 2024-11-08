@@ -24,7 +24,7 @@ z
  ">
 </a>
 <a href="https://www.youtube.com/watch?v=u6p5JrmUcjY&t=66s"_blank">
-<img src="![portadagit](https://github.com/user-attachments/assets/5a3ab74f-792c-4b92-8bbe-fd38ea3b909a)">
+<img src="https://img.shields.io/badge/-Youtube-green?style=for-the-badge&color=d8392c">
 </a>
 </p>
 <p>Aprende a instalar GitHub en menos de 5 minutos<strong>Como instalar GITHUB</strong> - En este video aprenderás de forma facil y práctica a como instalar GitHub.</p>
