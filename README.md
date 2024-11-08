@@ -32,7 +32,6 @@
 </td>
 
 <td width="50%">
-               <br>
 <h3 align="center">COMO DESCARGAR UNA EXTENSIÓN EN VS CODE </h3>
 <div align="center">
 <a href="https://github.com/13k13k13/13k13k13" target="_blank"><img src="portadaVSss.png" width="400" alt="DESCARGA UNA EXTENSION EN VS CODE"></a>
