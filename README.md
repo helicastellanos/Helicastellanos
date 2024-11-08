@@ -28,7 +28,6 @@
 </p>
 <p>Aprende a instalar GitHub en menos de 5 minutos<strong>Como instalar GITHUB</strong> - En este video aprenderás de forma facil y práctica a como instalar GitHub.</p>
 </div>
-
 </td>
 <td width="50%">
 <h3 align="center">COMO DESCARGAR UNA EXTENSIÓN EN VS CODE </h3>
