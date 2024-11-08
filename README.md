@@ -41,7 +41,7 @@
 <img src="https://img.shields.io/badge/-Youtube-green?style=for-the-badge&color=d8392c">
 </a>
 </p>
-<p>Aprende a instalar extenciones en Visual Studio Code en menos de 5 minutos y de la manera mas facil que podras encontrar </strong> </p>
+<p>Aprende a instalar extenciones en Visual Studio Code en menos de 5 minutos y de la manera mas facil que podras encontrar. Para mas videos dale al link</strong> </p>
 </div>
   
 </td>  
