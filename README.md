@@ -15,7 +15,7 @@
   <table>
 <tr>
 <td width="50%">
-<h3 align="center">CÓMO INSTALAR GITHUB</h3>
+<h3 align="center">COMO INSTALAR GITHUB</h3>
 <div align="center">
 <a href="https://github.com/helicastellanos" target="_blank"><img src="portadagit.png"width="400" alt=" COMO INSTALAR GITHUB"></a>
 <p>
